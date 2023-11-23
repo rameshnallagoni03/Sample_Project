@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <custom>true</custom>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Test_Object2__c.Test_Field2__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <layoutAssignments>
+        <layout>Test_Object2__c-Test_Object2 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Test_Object__c-Test_Object Layout</layout>
+    </layoutAssignments>
+    <userLicense>External Apps Login</userLicense>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>EnableNotifications</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>SelectFilesFromSalesforce</name>
+    </userPermissions>
+</Profile>

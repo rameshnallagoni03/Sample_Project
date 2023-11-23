@@ -1,0 +1,16 @@
+{
+  "orgName": "ScratchOrg",
+  "edition": "Developer",
+  "features": ["EnableSetPasswordInApi"],
+  "namespace": "spacedevtest",
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
+
+
